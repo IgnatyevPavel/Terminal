@@ -1,4 +1,4 @@
-#Termial. HW_2
+# Termial. HW_2
 ___
 *1) Сделать папку dir_1* : 
 `mkdir dir_1`
