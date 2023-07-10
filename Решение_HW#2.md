@@ -1,4 +1,5 @@
-# Termial. HW_2
+# HW#2. Termial  ![Terminal](https://img.shields.io/badge/Git-2.41.0.windows.2-f14e32) ![Editor](https://img.shields.io/badge/VScode-1.77.3-005eff) ![OS](https://img.shields.io/badge/Windows-22H2-0014a8)
+
 
 *1) Сделать папку dir_1* : 
 
