@@ -103,16 +103,36 @@ ___
 *1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request* :  
 
-`curl http://162.55.220.72:5005/terminal-hw-request` 
+_Request_
+```
+curl http://162.55.220.72:5006/terminal-hw-request
+``` 
 
-#_Response:_ 
+_Response:_ 
+```
+{
+  "Intro": "Hello!! This is your the first response from server", 
+  "Tasks": {
+    "Task_1": "Send the next URL in terminal: http://162.55.220.72:5005/get_method?name=(set_your_String)&age=(set_your_number)", 
+    "result": [
+      "Your_String", 
+      "Your_number"
+    ]
+  }
+}
+```
 
-`curl "http://162.55.220.72:5005/get_method?name=Pavel&age=28"`
-  _Response:_
+_Request_
+```
+`curl "http://162.55.220.72:5006/get_method?name=Pavel&age=29"`
+```
+
+_Response:_
 ```gitbash
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100    16  100    16    0     0    154      0 --:--:-- --:--:-- --:--:--   155["(6)","(279)"]
+[
+  "Pavel", 
+  "29"
+]
 ```
 ___
 
