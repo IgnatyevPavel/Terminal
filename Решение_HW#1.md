@@ -1,5 +1,5 @@
 # HW#1: Linux terminal (GitBash) commands
-![Terminal](https://img.shields.io/badge/Git-2.41.0.windows.2-f14e32) ![Editor](https://img.shields.io/badge/VScode-1.77.3-0071bc) ![OS](https://img.shields.io/badge/Windows-22H2-0014a8)
+![Terminal](https://img.shields.io/badge/GitBash-2.41.0.windows.2-f14e32) ![Editor](https://img.shields.io/badge/VScode-1.77.3-0071bc) ![OS](https://img.shields.io/badge/Windows-22H2-0014a8)
 ___
 *1) Посмотреть где я* :  
 
