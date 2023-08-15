@@ -103,7 +103,7 @@ ___
 *1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request* :  
 
-_Request_
+_Request:_
 ```
 curl http://162.55.220.72:5006/terminal-hw-request
 ``` 
@@ -122,7 +122,7 @@ _Response:_
 }
 ```
 
-_Request_
+_Request:_
 ```
 `curl "http://162.55.220.72:5006/get_method?name=Pavel&age=29"`
 ```
