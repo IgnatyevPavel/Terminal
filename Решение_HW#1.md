@@ -1,4 +1,4 @@
-# HW#1: Linux terminal (GitBash) commands ![Terminal](https://img.shields.io/badge/GitBash-2.41.0.windows.2-f14e32) ![Editor](https://img.shields.io/badge/VScode-1.77.3-0071bc) ![OS](https://img.shields.io/badge/Windows-22H2-0014a8)
+# HW#1: Linux terminal (GitBash) commands ![Terminal](https://img.shields.io/badge/GitBash-5.2.15(1)-f14e32) ![Editor](https://img.shields.io/badge/VScode-1.81.1-0071bc) ![OS](https://img.shields.io/badge/Windows-20H2-0014a8)
 
 *1) Посмотреть где я* :  
 
@@ -139,7 +139,7 @@ _Request:_
 ```
 
 _Response:_
-```gitbash
+```
 [
   "Pavel", 
   "29"
@@ -168,6 +168,6 @@ mv p2/{1.txt,1.json} p3 # 13) переместить любые 2 файла, к
 ```
 + Затем, сохраняем файл в редакторе vim.
 
-+ `./myscript.sh`-для запуска скрипта пишем в консоль.
++ Для запуска скрипта пишем `./myscript.sh` в консоль.
 
 
