@@ -114,12 +114,12 @@ ___
 *1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request* :  
 
-_Request:_
++ _Request:_
 ```
 curl http://162.55.220.72:5006/terminal-hw-request
 ``` 
 
-_Response:_ 
++ _Response:_ 
 ```
 {
   "Intro": "Hello!! This is your the first response from server", 
@@ -133,12 +133,12 @@ _Response:_
 }
 ```
 
-_Request:_
++ _Request:_
 ```
 `curl "http://162.55.220.72:5006/get_method?name=Pavel&age=29"`
 ```
 
-_Response:_
++ _Response:_
 ```
 [
   "Pavel", 
